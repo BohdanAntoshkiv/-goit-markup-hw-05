@@ -612,6 +612,7 @@ img {
 .project-item-text {
     padding: 20px 24px;
     border: 1px solid var(--border-color-card);
+    border-top: 0;
 }
 
 .project-list-header {
