@@ -639,7 +639,7 @@ img {
     visibility: hidden;
 }
 .modal-close-icon {
-    fill: #000000;
+    /* fill: #000000; */
 }
 
 /* ---------------------PORTFOLIO------------------------- */
