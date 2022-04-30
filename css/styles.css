@@ -752,7 +752,7 @@ img {
     height: 100%;
     padding: 63px 24px;
 
-    transform: translateY(100%);
+    transform: translateY(101%);
     transition: transform 250ms var(--timing-function);
 }
 
