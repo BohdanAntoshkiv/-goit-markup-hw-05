@@ -536,7 +536,7 @@ img {
     font-style: normal;
     color: var(--footer-phone-mail-color);
 
-    transition: color 250ms var(--timing-function), fill 250ms var(--timing-function);
+    transition: color 250ms var(--timing-function);
 }
 
 .footer-address-map:hover,
